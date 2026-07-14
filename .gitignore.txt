@@ -8,4 +8,4 @@ data/
 *.pkl
 .env
 scikit-learn/
-scikit-numpy/
+scratch-numpy/
