@@ -1,0 +1,11 @@
+# Example .gitignore content
+venv/
+*.pyc
+__pycache__/
+data/
+*.pth
+*.h5
+*.pkl
+.env
+scikit-learn/
+scikit-numpy/
